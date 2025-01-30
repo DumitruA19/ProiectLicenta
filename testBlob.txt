@@ -1,0 +1,1 @@
+Acesta este un fișier de test pentru Azure Blob Storage.
